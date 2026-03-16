@@ -1,0 +1,6 @@
+Namespace = Entidades (Domains), Services, Repositorys, Security, etc...
+
+Assembly (DLL) - Pacotes.
+Ex: Pacote de financeiro, vendas, Nfs.
+
+Project - Projeto que reúne todos esses módulos.
