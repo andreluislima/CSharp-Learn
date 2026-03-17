@@ -1,0 +1,15 @@
+D:\workspace-dev\github\CSharp-Learn\udemy-nelio-alves\PrimeiroPrograma1\PrimeiroPrograma1\bin\Debug\net8.0\PrimeiroPrograma1.exe
+D:\workspace-dev\github\CSharp-Learn\udemy-nelio-alves\PrimeiroPrograma1\PrimeiroPrograma1\bin\Debug\net8.0\PrimeiroPrograma1.deps.json
+D:\workspace-dev\github\CSharp-Learn\udemy-nelio-alves\PrimeiroPrograma1\PrimeiroPrograma1\bin\Debug\net8.0\PrimeiroPrograma1.runtimeconfig.json
+D:\workspace-dev\github\CSharp-Learn\udemy-nelio-alves\PrimeiroPrograma1\PrimeiroPrograma1\bin\Debug\net8.0\PrimeiroPrograma1.dll
+D:\workspace-dev\github\CSharp-Learn\udemy-nelio-alves\PrimeiroPrograma1\PrimeiroPrograma1\bin\Debug\net8.0\PrimeiroPrograma1.pdb
+D:\workspace-dev\github\CSharp-Learn\udemy-nelio-alves\PrimeiroPrograma1\PrimeiroPrograma1\obj\Debug\net8.0\PrimeiroPrograma1.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace-dev\github\CSharp-Learn\udemy-nelio-alves\PrimeiroPrograma1\PrimeiroPrograma1\obj\Debug\net8.0\PrimeiroPrograma1.AssemblyInfoInputs.cache
+D:\workspace-dev\github\CSharp-Learn\udemy-nelio-alves\PrimeiroPrograma1\PrimeiroPrograma1\obj\Debug\net8.0\PrimeiroPrograma1.AssemblyInfo.cs
+D:\workspace-dev\github\CSharp-Learn\udemy-nelio-alves\PrimeiroPrograma1\PrimeiroPrograma1\obj\Debug\net8.0\PrimeiroPrograma1.csproj.CoreCompileInputs.cache
+D:\workspace-dev\github\CSharp-Learn\udemy-nelio-alves\PrimeiroPrograma1\PrimeiroPrograma1\obj\Debug\net8.0\PrimeiroPrograma1.sourcelink.json
+D:\workspace-dev\github\CSharp-Learn\udemy-nelio-alves\PrimeiroPrograma1\PrimeiroPrograma1\obj\Debug\net8.0\PrimeiroPrograma1.dll
+D:\workspace-dev\github\CSharp-Learn\udemy-nelio-alves\PrimeiroPrograma1\PrimeiroPrograma1\obj\Debug\net8.0\refint\PrimeiroPrograma1.dll
+D:\workspace-dev\github\CSharp-Learn\udemy-nelio-alves\PrimeiroPrograma1\PrimeiroPrograma1\obj\Debug\net8.0\PrimeiroPrograma1.pdb
+D:\workspace-dev\github\CSharp-Learn\udemy-nelio-alves\PrimeiroPrograma1\PrimeiroPrograma1\obj\Debug\net8.0\PrimeiroPrograma1.genruntimeconfig.cache
+D:\workspace-dev\github\CSharp-Learn\udemy-nelio-alves\PrimeiroPrograma1\PrimeiroPrograma1\obj\Debug\net8.0\ref\PrimeiroPrograma1.dll
