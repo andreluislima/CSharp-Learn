@@ -1,4 +1,7 @@
-﻿namespace PrimeiroPrograma1
+﻿
+using System;
+
+namespace PrimeiroPrograma1
 {
     class Program
     {
